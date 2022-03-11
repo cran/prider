@@ -1,3 +1,7 @@
+  <!-- badges: start -->
+  [![CRAN status](https://www.r-pkg.org/badges/version/prider)](https://CRAN.R-project.org/package=prider)
+  <!-- badges: end -->
+
 # Prider
 
 Prider permits multiplexed oligonucleotide primer and probe design for 
